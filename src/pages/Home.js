@@ -10,12 +10,13 @@ import Skills from "./Skills";
 const Home = () => {
     return (
         <div>
-            <About />
-            <Awards />
-            <Education />
-            <Experience />
-            <Interests />
-            <Skills />
+            <h1>Welcome to My Portofolio</h1>
+            <p>
+                You can find more about me using the navigation bar on the left side.
+            </p>
+            <p>
+                Sorry for the inconvenience due to the site's unresponsiveness to various devices.
+            </p>
         </div>
     );
 };
