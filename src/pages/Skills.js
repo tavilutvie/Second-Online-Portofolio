@@ -11,6 +11,9 @@ const Skills = () => {
                 <li>JavaScript</li>
                 <li>HTML</li>
                 <li>CSS</li>
+                <li>SQL</li>
+                <li>React</li>
+                <li>React Native</li>
             </ul>
             <h2>Ability and Competence</h2>
             <ul>
@@ -23,7 +26,7 @@ const Skills = () => {
                 <li>Detail Oriented</li>
                 <li>Self-Management</li>
                 <li>Self-Confident</li>
-                <li>handsome</li>
+                <li>Handsome</li>
             </ul>
             <h2>Language Profeciency</h2>
             <ul>

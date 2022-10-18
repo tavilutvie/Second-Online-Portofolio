@@ -13,6 +13,10 @@ const Experience = () => {
                     <p>Recording Staff (Mei 2021 - October 2021)</p>
                     <p>Responsible for preparing drafted footage in Schematics Reeva.</p>
                     </li>
+                    <li>
+                    <p>Production Staff (March 2022 - November 2022)</p>
+                    <p>Responsible for preparing things related to Schematics Reeva event production.</p>
+                    </li>
                     </ul>
                 </li>
                 <li>
@@ -21,7 +25,7 @@ const Experience = () => {
                     <br></br>
                     <ul>
                 <li>
-                    <p>Property Staff (2017—2018)</p>
+                    <p>Property Staff (2018)</p>
                     <p>Responsible for preparing and supplying Senyuman event equipments and needs.</p>
                     </li>
                     </ul>
@@ -32,13 +36,13 @@ const Experience = () => {
                     <br></br>
                     <ul>
                 <li>
-                    <p>Property Staff (2017—2018)</p>
+                    <p>Property Staff (2017)</p>
                     <p>Responsible for preparing and supplying Nouveau event equipments and needs.</p>
                     <br></br>
                     </li>
                 <li>
-                    <p>Transportation Staff (2018—2019)</p>
-                    <p>Responsible for setting up vehicles and providing transportation needs for Nouveau events.</p>
+                    <p>Transportation Staff (2018)</p>
+                    <p>Responsible for setting up vehicles and providing transportation needs for Nouveau event.</p>
                     </li>
                     </ul>
                 </li>
@@ -48,7 +52,7 @@ const Experience = () => {
                     <br></br>
                     <ul>
                 <li>
-                    <p>Robotics Event Staff (2018—2019)</p>
+                    <p>Robotics Event Staff (2018)</p>
                     <p>Responsible for designing and organizing Robotics competition events in Eunoia.</p>
                     </li>
                     </ul>
